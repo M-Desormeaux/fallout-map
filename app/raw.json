@@ -1,0 +1,3092 @@
+[
+  {
+    "categoryId": "1",
+    "position": [1267.1353518862932, 2642.104487903535],
+    "popup": {
+      "title": "Vault 12",
+      "description": "Experiment Vault beneath Bakersfield. Medical experiment studying the effects of gradual radiation exposure; door was designed not to seal correctly ",
+      "link": {
+        "url": "Vault 12",
+        "label": "Vault 12"
+      },
+      "image": {
+        "title": "File:Fo1 Vault 12 Level 1.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/c/ce/Fo1_Vault_12_Level_1.png/revision/latest/scale-to-width-down/300?cb=20150303132706",
+        "width": 1915,
+        "height": 1327
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EExperiment Vault beneath Bakersfield. Medical experiment studying the effects of gradual radiation exposure; door was designed not to seal correctly \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "5"
+  },
+  {
+    "categoryId": "1",
+    "position": [1135.6134905855952, 3143.4431957647967],
+    "popup": {
+      "title": "Vault 13",
+      "description": "The home of the Vault Dweller and starting location of Fallout.",
+      "link": {
+        "url": "Vault 13",
+        "label": "Vault 13"
+      },
+      "image": {
+        "title": "File:Votf.jpg",
+        "url": "https://static.wikia.nocookie.net/fallout/images/0/05/Votf.jpg/revision/latest/scale-to-width-down/300?cb=20110116001328",
+        "width": 428,
+        "height": 356
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EThe home of the Vault Dweller and starting location of Fallout.\n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "7"
+  },
+  {
+    "categoryId": "1",
+    "position": [1462.2968234937803, 3075.207391380295],
+    "popup": {
+      "title": "Vault 15",
+      "description": "A deserted, buried Vault and the birthplace of the Khans, Vipers, Jackals, and Shady Sands.",
+      "link": {
+        "url": "Vault 15",
+        "label": "Vault 15"
+      },
+      "image": {
+        "title": "File:Fo1 Vault 15 Townmap.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/f/f8/Fo1_Vault_15_Townmap.png/revision/latest/scale-to-width-down/300?cb=20110222071524",
+        "width": 412,
+        "height": 409
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EA deserted, buried Vault and the birthplace of the Khans, Vipers, Jackals, and Shady Sands.\n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "9"
+  },
+  {
+    "categoryId": "1",
+    "position": [928, 2411.25],
+    "popup": {
+      "title": "Demonstration Vault",
+      "description": "A tech demonstrator created by Vault-Tec before the [[Great War]] in [[Los Angeles]].",
+      "link": {
+        "url": "Master's Lair",
+        "label": "Demonstration Vault"
+      },
+      "image": {
+        "title": "File:Fo1 Demonstration Vault.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/e/e8/Fo1_Demonstration_Vault.png/revision/latest/scale-to-width-down/300?cb=20140530152111",
+        "width": 2880,
+        "height": 1823
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EA tech demonstrator created by Vault-Tec before the \u003Ca href=\"/wiki/Great_War\" title=\"Great War\"\u003EGreat War\u003C/a\u003E in \u003Ca href=\"/wiki/Los_Angeles\" class=\"mw-redirect\" title=\"Los Angeles\"\u003ELos Angeles\u003C/a\u003E.\n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "12"
+  },
+  {
+    "categoryId": "1",
+    "position": [1216.2236636408616, 3843.832462530072],
+    "popup": {
+      "title": "Vault 8",
+      "description": "Control Vault in northern Nevada. Opened in 2091, creating [[Vault City]].",
+      "link": {
+        "url": "Vault 8",
+        "label": "Vault 8"
+      },
+      "image": {
+        "title": "File:Fo2 Vault 8 Entrance.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/3/30/Fo2_Vault_8_Entrance.png/revision/latest/scale-to-width-down/300?cb=20150524140737",
+        "width": 1576,
+        "height": 1126
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EControl Vault in northern Nevada. Opened in 2091, creating \u003Ca href=\"/wiki/Vault_City\" title=\"Vault City\"\u003EVault City\u003C/a\u003E.\n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "13"
+  },
+  {
+    "categoryId": "1",
+    "position": [1570.5, 2755],
+    "popup": {
+      "title": "Vault 21",
+      "description": "Experiment Vault in Las Vegas, Nevada. Social experiment studying the effects of excessive gambling; all disputes were to be resolved through games of chance ",
+      "link": {
+        "url": "Vault 21",
+        "label": "Vault 21"
+      },
+      "image": {
+        "title": "File:Vault 21.jpg",
+        "url": "https://static.wikia.nocookie.net/fallout/images/c/cb/Vault_21.jpg/revision/latest/scale-to-width-down/300?cb=20200216212628",
+        "width": 1920,
+        "height": 1080
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EExperiment Vault in Las Vegas, Nevada. Social experiment studying the effects of excessive gambling; all disputes were to be resolved through games of chance \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "14"
+  },
+  {
+    "categoryId": "1",
+    "position": [1599, 2698],
+    "popup": {
+      "title": "Vault 11",
+      "description": "Experiment Vault near Henderson, Nevada: Social experiment studying a population's willingness to sacrifice individuals for the safety of the majority, using falsified threats of collective punishment ",
+      "link": {
+        "url": "Vault 11",
+        "label": "Vault 11"
+      },
+      "image": {
+        "title": "File:Vault 11 door.jpg",
+        "url": "https://static.wikia.nocookie.net/fallout/images/0/0b/Vault_11_door.jpg/revision/latest/scale-to-width-down/300?cb=20130411173018",
+        "width": 1920,
+        "height": 1080
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EExperiment Vault near Henderson, Nevada: Social experiment studying a population's willingness to sacrifice individuals for the safety of the majority, using falsified threats of collective punishment \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "15"
+  },
+  {
+    "categoryId": "1",
+    "position": [1605.5, 2745],
+    "popup": {
+      "title": "Vault 34",
+      "description": "Experimental Vault. Social experiment in which inhabitants were provided access to an overstocked armory with no security measures.",
+      "link": {
+        "url": "Vault 34",
+        "label": "Vault 34"
+      },
+      "image": {
+        "title": "File:Outside the vault34 blast.jpg",
+        "url": "https://static.wikia.nocookie.net/fallout/images/a/a6/Outside_the_vault34_blast.jpg/revision/latest/scale-to-width-down/300?cb=20120814095235",
+        "width": 1000,
+        "height": 558
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EExperimental Vault. Social experiment in which inhabitants were provided access to an overstocked armory with no security measures.\n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "16"
+  },
+  {
+    "categoryId": "1",
+    "position": [1532, 2727.5],
+    "popup": {
+      "title": "Vault 19",
+      "description": "Experiment Vault. Social experiment studying effects of factionalism and means to induce paranoia and mistrust; inhabitants divided into rival \"Blue\" and \"Red\" sectors ",
+      "link": {
+        "url": "Vault 19",
+        "label": "Vault 19"
+      },
+      "image": {
+        "title": "File:Vault 19.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/c/c6/Vault_19.png/revision/latest/scale-to-width-down/300?cb=20190817121112",
+        "width": 1920,
+        "height": 1080
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EExperiment Vault. Social experiment studying effects of factionalism and means to induce paranoia and mistrust; inhabitants divided into rival \"Blue\" and \"Red\" sectors \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "17"
+  },
+  {
+    "categoryId": "1",
+    "position": [1545.9122003690895, 2740.745883879058],
+    "popup": {
+      "title": "Vault 3",
+      "description": "Control Vault in western Vegas. Conquered by the Fiends.",
+      "link": {
+        "url": "Vault 3",
+        "label": "Vault 3"
+      },
+      "image": {
+        "title": "File:Vault 3.jpg",
+        "url": "https://static.wikia.nocookie.net/fallout/images/3/34/Vault_3.jpg/revision/latest/scale-to-width-down/300?cb=20110430122718",
+        "width": 729,
+        "height": 524
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EControl Vault in western Vegas. Conquered by the Fiends.\n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "18"
+  },
+  {
+    "categoryId": "1",
+    "position": [1544.6747635020129, 2789.1826983903366],
+    "popup": {
+      "title": "Vault 22",
+      "description": "Experimental Vault. Research facility studying and creating genetically modified crops and flora.",
+      "link": {
+        "url": "Vault 22",
+        "label": "Vault 22"
+      },
+      "image": {
+        "title": "File:Vault 22.jpg",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bf/Vault_22.jpg/revision/latest/scale-to-width-down/300?cb=20150121234618",
+        "width": 1920,
+        "height": 1080
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EExperimental Vault. Research facility studying and creating genetically modified crops and flora.\n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "19"
+  },
+  {
+    "categoryId": "2",
+    "position": [7559.678597665379, 3240.670378177947],
+    "popup": {
+      "title": "Vault-Tec Headquarters",
+      "description": "Headquarters of the Vault-Tec Corporation in Washington, DC.",
+      "link": {
+        "url": "Vault-Tec Headquarters",
+        "label": "Vault-Tec Headquarters"
+      },
+      "image": {
+        "title": "File:Fo3 Vault Tec HQ.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/8/8e/Fo3_Vault_Tec_HQ.png/revision/latest/scale-to-width-down/300?cb=20090518201357",
+        "width": 1280,
+        "height": 960
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EHeadquarters of the Vault-Tec Corporation in Washington, DC.\n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "20"
+  },
+  {
+    "categoryId": "1",
+    "position": [7546.950675604021, 3297.9460274540575],
+    "popup": {
+      "title": "Vault 92",
+      "description": "Experimental Vault in Olney, MD. Medical experiment testing means to induce aggression using [[white noise]].",
+      "link": {
+        "url": "Vault 92",
+        "label": "Vault 92"
+      },
+      "image": {
+        "title": "File:Vault 92.jpg",
+        "url": "https://static.wikia.nocookie.net/fallout/images/e/ee/Vault_92.jpg/revision/latest/scale-to-width-down/300?cb=20210906022341",
+        "width": 900,
+        "height": 675
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EExperimental Vault in Olney, MD. Medical experiment testing means to induce aggression using \u003Ca href=\"/wiki/White_noise\" title=\"White noise\"\u003Ewhite noise\u003C/a\u003E.\n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "21"
+  },
+  {
+    "categoryId": "1",
+    "position": [7562.153471399532, 3263.65134856651],
+    "popup": {
+      "title": "Vault 108",
+      "description": "Experimental Vault. Social experiment studying effects of leadership conflicts: most management positions were to be filled by a terminally ill Overseer upon entry, power systems were designed to fail after 20 years, no entertainment was provided, and armory was provided triple the standard ordnance",
+      "link": {
+        "url": "Vault 108",
+        "label": "Vault 108"
+      },
+      "image": {
+        "title": "File:Vault 108 vault door.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/9/98/Vault_108_vault_door.png/revision/latest/scale-to-width-down/300?cb=20141125200431",
+        "width": 1728,
+        "height": 1080
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EExperimental Vault. Social experiment studying effects of leadership conflicts: most management positions were to be filled by a terminally ill Overseer upon entry, power systems were designed to fail after 20 years, no entertainment was provided, and armory was provided triple the standard ordnance\n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "22"
+  },
+  {
+    "categoryId": "1",
+    "position": [7508.0598026387615, 3258.348047707611],
+    "popup": {
+      "title": "Vault 106",
+      "description": "Experimental Vault. Medical experiment studying effects of psychoactive drugs released via air filtration systems ",
+      "link": {
+        "url": "Vault 106",
+        "label": "Vault 106"
+      },
+      "image": {
+        "title": "File:Vault 106 exterior.jpg",
+        "url": "https://static.wikia.nocookie.net/fallout/images/a/a3/Vault_106_exterior.jpg/revision/latest/scale-to-width-down/300?cb=20150406220456",
+        "width": 1920,
+        "height": 1080
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EExperimental Vault. Medical experiment studying effects of psychoactive drugs released via air filtration systems \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "23"
+  },
+  {
+    "categoryId": "1",
+    "position": [7521.141278090712, 3247.034339208626],
+    "popup": {
+      "title": "Vault 101",
+      "description": "Experimental Vault. Social experiment in which Overseers were granted unlimited authority over a Vault intended to remain closed indefinitely ",
+      "link": {
+        "url": "Vault 101",
+        "label": "Vault 101"
+      },
+      "image": {
+        "title": "File:Vault 101 entrance ext.jpg",
+        "url": "https://static.wikia.nocookie.net/fallout/images/a/a1/Vault_101_entrance_ext.jpg/revision/latest/scale-to-width-down/300?cb=20210605064850",
+        "width": 1920,
+        "height": 1080
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EExperimental Vault. Social experiment in which Overseers were granted unlimited authority over a Vault intended to remain closed indefinitely \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "24"
+  },
+  {
+    "categoryId": "1",
+    "position": [7479.775531391299, 3254.4589604110847],
+    "popup": {
+      "title": "Vault 87",
+      "description": "Research facility studying the effects of the Forced Evolutionary Virus on humans; civilian population was used as test subjects ",
+      "link": {
+        "url": "Vault 87",
+        "label": "Vault 87"
+      },
+      "image": {
+        "title": "File:Vault 87 gear door.jpg",
+        "url": "https://static.wikia.nocookie.net/fallout/images/6/6f/Vault_87_gear_door.jpg/revision/latest/scale-to-width-down/300?cb=20120409103314",
+        "width": 1010,
+        "height": 687
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EResearch facility studying the effects of the Forced Evolutionary Virus on humans; civilian population was used as test subjects \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "25"
+  },
+  {
+    "categoryId": "1",
+    "position": [7488.614366156131, 3238.195504443794],
+    "popup": {
+      "title": "Vault 112",
+      "description": "Experimental Vault. Social experiment in which inhabitants were placed in a virtual reality simulation controlled by the Overseer ",
+      "link": {
+        "url": "Vault 112",
+        "label": "Vault 112"
+      },
+      "image": {
+        "title": "File:Vault112.JPG",
+        "url": "https://static.wikia.nocookie.net/fallout/images/1/13/Vault112.JPG/revision/latest/scale-to-width-down/300?cb=20100708191304",
+        "width": 1680,
+        "height": 1050
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EExperimental Vault. Social experiment in which inhabitants were placed in a virtual reality simulation controlled by the Overseer \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "26"
+  },
+  {
+    "categoryId": "1",
+    "position": [7051, 2915],
+    "popup": {
+      "title": "Vault 96",
+      "description": "Research facility intended to monitor and study mutated wildlife, using genetic engineering to develop anti-mutant countermeasures. Staffed by only five individuals ",
+      "link": {
+        "url": "Vault 96",
+        "label": "Vault 96"
+      },
+      "image": {
+        "title": "File:FO76SR Vault 96 door.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/9/91/FO76SR_Vault_96_door.png/revision/latest/scale-to-width-down/300?cb=20210715023503",
+        "width": 1920,
+        "height": 1080
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EResearch facility intended to monitor and study mutated wildlife, using genetic engineering to develop anti-mutant countermeasures. Staffed by only five individuals \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "27"
+  },
+  {
+    "categoryId": "1",
+    "position": [6959.698493828593, 2794.839552639829],
+    "popup": {
+      "title": "Vault 63",
+      "description": "Unknown.",
+      "link": {
+        "url": "Vault 63",
+        "label": "Vault 63"
+      },
+      "image": {
+        "title": "File:F76 Vault 63 Main Door.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/9/95/F76_Vault_63_Main_Door.png/revision/latest/scale-to-width-down/300?cb=20190913023322",
+        "width": 1680,
+        "height": 1050
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EUnknown.\n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "28"
+  },
+  {
+    "categoryId": "1",
+    "position": [6978.7903769206305, 3324.462531748553],
+    "popup": {
+      "title": "Vault 51",
+      "description": "Experimental Vault. Social experiment in which a ZAX AI was tasked with selecting an ideal overseer from Vault population ",
+      "link": {
+        "url": "Vault 51",
+        "label": "Vault 51"
+      },
+      "image": {
+        "title": "File:Vault51.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/c/c1/Vault51.png/revision/latest/scale-to-width-down/300?cb=20190327002449",
+        "width": 1920,
+        "height": 1080
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EExperimental Vault. Social experiment in which a ZAX AI was tasked with selecting an ideal overseer from Vault population \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "29"
+  },
+  {
+    "categoryId": "1",
+    "position": [7210.367847759225, 3239.9632713967603],
+    "popup": {
+      "title": "Vault 94",
+      "description": "Experimental Vault. Social experiment testing the viability of pacifist belief systems in post-apocalyptic conditions; all inhabitants were members of a nonviolent religious community save a single Vault-Tec employee ",
+      "link": {
+        "url": "Vault 94",
+        "label": "Vault 94"
+      },
+      "image": {
+        "title": "File:Vault 94 door.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/1/1c/Vault_94_door.png/revision/latest/scale-to-width-down/300?cb=20190826014342",
+        "width": 1920,
+        "height": 1080
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EExperimental Vault. Social experiment testing the viability of pacifist belief systems in post-apocalyptic conditions; all inhabitants were members of a nonviolent religious community save a single Vault-Tec employee \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "30"
+  },
+  {
+    "categoryId": "1",
+    "position": [6924.69670815986, 3160.7673119038673],
+    "popup": {
+      "title": "Vault 76",
+      "description": "Control Vault",
+      "link": {
+        "url": "Vault 76",
+        "label": "Vault 76"
+      },
+      "image": {
+        "title": "File:F76 Vault 76 Main Door.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/a/a8/F76_Vault_76_Main_Door.png/revision/latest/scale-to-width-down/300?cb=20190913023345",
+        "width": 1920,
+        "height": 1080
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EControl Vault\n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "31"
+  },
+  {
+    "categoryId": "2",
+    "position": [7007.428201558686, 3102.077449065384],
+    "popup": {
+      "title": "Vault-Tec Agricultural Research Center",
+      "description": "Automated research facility for developing agricultural technologies, near Flatwoods WV.",
+      "link": {
+        "url": "Vault-Tec Agricultural Research Center",
+        "label": "Vault-Tec Agricultural Research Center"
+      },
+      "image": {
+        "title": "File:Vault-Tec Agricultural Research Center.jpg",
+        "url": "https://static.wikia.nocookie.net/fallout/images/7/7a/Vault-Tec_Agricultural_Research_Center.jpg/revision/latest/scale-to-width-down/300?cb=20190416044502",
+        "width": 1920,
+        "height": 1080
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAutomated research facility for developing agricultural technologies, near Flatwoods WV.\n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "32"
+  },
+  {
+    "categoryId": "2",
+    "position": [7062.582530491236, 3267.540435863036],
+    "popup": {
+      "title": "Vault-Tec University",
+      "description": "Vocational training center for the [[Vault-Tec Corporation]], acquired in 2031. Located in [[Morgantown]], WV.",
+      "link": {
+        "url": "Vault-Tec University",
+        "label": "Vault-Tec University"
+      },
+      "image": {
+        "title": "File:F76 Vault-Tec University.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/c/cc/F76_Vault-Tec_University.png/revision/latest/scale-to-width-down/300?cb=20190913023428",
+        "width": 3000,
+        "height": 1135
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EVocational training center for the \u003Ca href=\"/wiki/Vault-Tec_Corporation\" title=\"Vault-Tec Corporation\"\u003EVault-Tec Corporation\u003C/a\u003E, acquired in 2031. Located in \u003Ca href=\"/wiki/Morgantown\" title=\"Morgantown\"\u003EMorgantown\u003C/a\u003E, WV.\n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "33"
+  },
+  {
+    "categoryId": "2",
+    "position": [8270.32091275786, 4133.03913603537],
+    "popup": {
+      "title": "Vault-Tec Regional Headquarters",
+      "description": "Regional HQ of the Vault-Tec Corporation for Boston, MA.",
+      "link": {
+        "url": "Vault-Tec Regional HQ",
+        "label": "Vault-Tec Regional Headquarters"
+      },
+      "image": {
+        "title": "File:Vault-Tec Regional HQ.jpg",
+        "url": "https://static.wikia.nocookie.net/fallout/images/d/dc/Vault-Tec_Regional_HQ.jpg/revision/latest/scale-to-width-down/300?cb=20200119182451",
+        "width": 1920,
+        "height": 1080
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003ERegional HQ of the Vault-Tec Corporation for Boston, MA.\n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "34"
+  },
+  {
+    "categoryId": "1",
+    "position": [8262.542738164808, 4130.917815691811],
+    "popup": {
+      "title": "Vault 114",
+      "description": "Experimental Vault. Social experiment in which wealthy inhabitants would be stripped of luxury and forced to live in cramped squalor under an incompetent Overseer. Not completed before the Great War.",
+      "link": {
+        "url": "Vault 114",
+        "label": "Vault 114"
+      },
+      "image": {
+        "title": "File:Vault114.jpg",
+        "url": "https://static.wikia.nocookie.net/fallout/images/8/86/Vault114.jpg/revision/latest/scale-to-width-down/300?cb=20191101114213",
+        "width": 1920,
+        "height": 1080
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EExperimental Vault. Social experiment in which wealthy inhabitants would be stripped of luxury and forced to live in cramped squalor under an incompetent Overseer. Not completed before the Great War.\n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "35"
+  },
+  {
+    "categoryId": "1",
+    "position": [8231.4300397926, 4127.028728395284],
+    "popup": {
+      "title": "Vault 81",
+      "description": "Experimental Vault. Research facility; scientists in a secret sector of the Vault would work to develop a universal disease cure via experiments on an unwitting civilian population. Experiment sabotaged.",
+      "link": {
+        "url": "Vault 81",
+        "label": "Vault 81"
+      },
+      "image": {
+        "title": "File:Vault 81door.jpg",
+        "url": "https://static.wikia.nocookie.net/fallout/images/e/e7/Vault_81door.jpg/revision/latest/scale-to-width-down/300?cb=20170228145745",
+        "width": 1920,
+        "height": 1080
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EExperimental Vault. Research facility; scientists in a secret sector of the Vault would work to develop a universal disease cure via experiments on an unwitting civilian population. Experiment sabotaged.\n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "36"
+  },
+  {
+    "categoryId": "1",
+    "position": [8212.691710091156, 4153.191679299187],
+    "popup": {
+      "title": "Vault 111",
+      "description": "Experimental Vault. Medical experiment studying long-term effects of cryogenic stasis on unwitting subjects ",
+      "link": {
+        "url": "Vault 111",
+        "label": "Vault 111"
+      },
+      "image": {
+        "title": "File:Vault 111 door opened.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/7/75/Vault_111_door_opened.png/revision/latest/scale-to-width-down/300?cb=20150609010124",
+        "width": 1920,
+        "height": 1080
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EExperimental Vault. Medical experiment studying long-term effects of cryogenic stasis on unwitting subjects \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "37"
+  },
+  {
+    "categoryId": "1",
+    "position": [8281, 4152],
+    "popup": {
+      "title": "Vault 75",
+      "description": "Experimental Vault. Social and medical experiment, in which a eugenics program was used to breed young inhabitants into perfect soldiers.",
+      "link": {
+        "url": "Vault 75",
+        "label": "Vault 75"
+      },
+      "image": {
+        "title": "File:Vault 75 entrance.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/d/d5/Vault_75_entrance.png/revision/latest/scale-to-width-down/300?cb=20191230230525",
+        "width": 1920,
+        "height": 1080
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EExperimental Vault. Social and medical experiment, in which a eugenics program was used to breed young inhabitants into perfect soldiers.\n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "38"
+  },
+  {
+    "categoryId": "1",
+    "position": [8234.5, 4097],
+    "popup": {
+      "title": "Vault 95",
+      "description": "Experimental Vault. Social and medical experiment in which addicts were given experimental rehabilitation treatments and encouraged to remain clean, then informed of a secret stash of chems ",
+      "link": {
+        "url": "Vault 95",
+        "label": "Vault 95"
+      },
+      "image": {
+        "title": "File:Vault95-Fallout4.jpg",
+        "url": "https://static.wikia.nocookie.net/fallout/images/a/a3/Vault95-Fallout4.jpg/revision/latest/scale-to-width-down/300?cb=20170325050549",
+        "width": 1906,
+        "height": 1037
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EExperimental Vault. Social and medical experiment in which addicts were given experimental rehabilitation treatments and encouraged to remain clean, then informed of a secret stash of chems \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "39"
+  },
+  {
+    "categoryId": "1",
+    "position": [8267, 4099],
+    "popup": {
+      "title": "Vault 88",
+      "description": "Testing facility for experimental productivity-boosting equipment to be used in other Vaults. Not completed before the Great War.",
+      "link": {
+        "url": "Vault 88",
+        "label": "Vault 88"
+      },
+      "image": {
+        "title": "File:Vault88-Main-Fallout4.jpg",
+        "url": "https://static.wikia.nocookie.net/fallout/images/1/10/Vault88-Main-Fallout4.jpg/revision/latest/scale-to-width-down/300?cb=20161015045343",
+        "width": 1421,
+        "height": 791
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003ETesting facility for experimental productivity-boosting equipment to be used in other Vaults. Not completed before the Great War.\n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "40"
+  },
+  {
+    "categoryId": "1",
+    "position": [8561, 4660.5],
+    "popup": {
+      "title": "Vault 118",
+      "description": "Experimental Vault. Social experiment in which 10 wealthy residents would live in luxury while 300 impoverished residents lived in squalor, with wealthy residents granted total authority. Experiment subverted by the wealthy residents.",
+      "link": {
+        "url": "Vault 118",
+        "label": "Vault 118"
+      },
+      "image": {
+        "title": "File:FO4 Vault 118 door closed.jpg",
+        "url": "https://static.wikia.nocookie.net/fallout/images/e/ec/FO4_Vault_118_door_closed.jpg/revision/latest/scale-to-width-down/300?cb=20190624222625",
+        "width": 1366,
+        "height": 768
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EExperimental Vault. Social experiment in which 10 wealthy residents would live in luxury while 300 impoverished residents lived in squalor, with wealthy residents granted total authority. Experiment subverted by the wealthy residents.\n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "41"
+  },
+  {
+    "categoryId": "3",
+    "position": [3285.25, 2990],
+    "popup": {
+      "title": "Vault 0",
+      "description": "Nexus of the Vault network featured in Fallout Tactics.",
+      "link": {
+        "url": "Vault 0",
+        "label": "Vault 0"
+      },
+      "image": {
+        "title": "File:V0 bos0117.jpg",
+        "url": "https://static.wikia.nocookie.net/fallout/images/3/33/V0_bos0117.jpg/revision/latest/scale-to-width-down/300?cb=20061129114517",
+        "width": 746,
+        "height": 526
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003ENexus of the Vault network featured in Fallout Tactics.\n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "42"
+  },
+  {
+    "categoryId": "3",
+    "position": [3057, 2557],
+    "popup": {
+      "title": "Vault 29",
+      "description": "Experimental Vault. No one in this Vault was over the age of 15 when they entered. Parents were redirected to other Vaults on purpose. Mentioned-only in FOB, it would have appeared in Van Buren, modified and expanded while a canonized version of the Vault has been mentioned in Fallout 76.",
+      "link": {
+        "url": "Vault 29 (Van Buren)",
+        "label": "Vault 29"
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EExperimental Vault. No one in this Vault was over the age of 15 when they entered. Parents were redirected to other Vaults on purpose. Mentioned-only in FOB, it would have appeared in Van Buren, modified and expanded while a canonized version of the Vault has been mentioned in Fallout 76.\n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "43"
+  },
+  {
+    "categoryId": "3",
+    "position": [2275, 3553],
+    "popup": {
+      "title": "Vault 70",
+      "description": "Social experiment in which jumpsuit extruders would fail after 6 months, drastically reducing clothing availability. Majority of inhabitants were members of the local Mormon congregation. Played a part in Van Buren's lore, as the origin of New Jerusalem and New Canaan.",
+      "link": {
+        "url": "Vault 70",
+        "label": "Vault 70"
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003ESocial experiment in which jumpsuit extruders would fail after 6 months, drastically reducing clothing availability. Majority of inhabitants were members of the local Mormon congregation. Played a part in Van Buren's lore, as the origin of New Jerusalem and New Canaan.\n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "44"
+  },
+  {
+    "categoryId": "3",
+    "position": [1127.1282092113568, 5029.650534579912],
+    "popup": {
+      "title": "Vault 6",
+      "description": "Experimental Vault. Medical experiment in which small amounts of radiation were leaked into the Vault each day. Was planned for Fallout Extreme.",
+      "link": {
+        "url": "Vault 6",
+        "label": "Vault 6"
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EExperimental Vault. Medical experiment in which small amounts of radiation were leaked into the Vault each day. Was planned for Fallout Extreme.\n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "45"
+  },
+  {
+    "categoryId": "3",
+    "position": [8380, 4185],
+    "popup": {
+      "title": "Vault 120",
+      "description": "Experimental underwater Vault, focusing on biological research into marine animals, in the Stellwagen Gorge. Cut from Fallout 4, restored using assets accidentally placed in Fallout 76.",
+      "link": {
+        "url": "Vault 120",
+        "label": "Vault 120"
+      },
+      "image": {
+        "title": "File:Fo4 Vault 120 2 Yangtze and Vault Door.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/f/f4/Fo4_Vault_120_2_Yangtze_and_Vault_Door.png/revision/latest/scale-to-width-down/300?cb=20221003105846",
+        "width": 1920,
+        "height": 1080
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EExperimental underwater Vault, focusing on biological research into marine animals, in the Stellwagen Gorge. Cut from Fallout 4, restored using assets accidentally placed in Fallout 76.\n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "46"
+  },
+  {
+    "categoryId": "3",
+    "position": [4030.508652763321, 1675.8430714121178],
+    "popup": {
+      "title": "Vault 39",
+      "description": "Located in Abilene, Texas, known as the Lone Star Vault. Original experiment unknown, turned into an infested jungle by Reese's experiments.",
+      "link": {
+        "url": "Vault 39",
+        "label": "Vault 39"
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003ELocated in Abilene, Texas, known as the Lone Star Vault. Original experiment unknown, turned into an infested jungle by Reese's experiments.\n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "47"
+  },
+  {
+    "categoryId": "3",
+    "position": [7441.945318597819, 3326.937405482706],
+    "popup": {
+      "title": "Burkittsville Vault",
+      "description": "Unknown number, stalked by cannibals outside the Vault door. Mentioned in a cut terminal entry in Fallout 3.",
+      "link": {
+        "url": "Burkittsville Vault",
+        "label": "Burkittsville Vault"
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EUnknown number, stalked by cannibals outside the Vault door. Mentioned in a cut terminal entry in Fallout 3.\n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "48"
+  },
+  {
+    "categoryId": "1",
+    "position": [911.6666564941406, 2467],
+    "popup": {
+      "title": "Vaults 31, 32, and 33",
+      "description": "A network of interconnected Vaults featuring {{in|FOTV}}: [[Vault 31]], [[Vault 32]], and [[Vault 33]].",
+      "link": {
+        "url": "Vault 33",
+        "label": "Vault 33"
+      },
+      "image": {
+        "title": "File:FOTV Trailer 1 08.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/c/c7/FOTV_Trailer_1_08.png/revision/latest/scale-to-width-down/300?cb=20231202191359",
+        "width": 1920,
+        "height": 1080
+      },
+      "descriptionHtml":"\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EA network of interconnected Vaults featuring in\u0026#160;the \u003Ca href=\"/wiki/Fallout_(TV_series)\" title=\"Fallout (TV series)\"\u003E\u003Ci\u003EFallout\u003C/i\u003E TV series\u003C/a\u003E: \u003Ca href=\"/wiki/Vault_31\" title=\"Vault 31\"\u003EVault 31\u003C/a\u003E, \u003Ca href=\"/wiki/Vault_32\" title=\"Vault 32\"\u003EVault 32\u003C/a\u003E, and \u003Ca href=\"/wiki/Vault_33\" title=\"Vault 33\"\u003EVault 33\u003C/a\u003E.\n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "49"
+  },
+  {
+    "categoryId": "4",
+    "position": [1107.3292193381333, 5129.352590727215],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As visible in [[The Beginning]], during the conference scene.",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs visible in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E, during the conference scene.\n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "50"
+  },
+  {
+    "categoryId": "4",
+    "position": [1357.645019878171, 5284.20897580707],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. ",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "51"
+  },
+  {
+    "categoryId": "4",
+    "position": [1091, 4928],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. ",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "52"
+  },
+  {
+    "categoryId": "4",
+    "position": [970, 4784],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. ",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "53"
+  },
+  {
+    "categoryId": "4",
+    "position": [544.4722215136417, 4084.2487681334987],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. ",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "54"
+  },
+  {
+    "categoryId": "4",
+    "position": [770, 3644],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n\n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003Cp\u003E\u003Cbr /\u003E\n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "55"
+  },
+  {
+    "categoryId": "4",
+    "position": [608, 3507],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. ",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "56"
+  },
+  {
+    "categoryId": "4",
+    "position": [511.9453095790604, 3604.830370489019],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. ",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "57"
+  },
+  {
+    "categoryId": "4",
+    "position": [872.5697679841998, 3181.980515339464],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. ",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "58"
+  },
+  {
+    "categoryId": "4",
+    "position": [958, 2927],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. ",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "59"
+  },
+  {
+    "categoryId": "4",
+    "position": [998, 2680],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. ",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "60"
+  },
+  {
+    "categoryId": "4",
+    "position": [989.2423868799799, 2536.392024116146],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. ",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "61"
+  },
+  {
+    "categoryId": "4",
+    "position": [893.7829714197961, 2631.85143957633],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. ",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "62"
+  },
+  {
+    "categoryId": "4",
+    "position": [1146.92719908458, 2261.327486234579],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. ",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "63"
+  },
+  {
+    "categoryId": "4",
+    "position": [1284.8130214159567, 2274.0554082959366],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. ",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "64"
+  },
+  {
+    "categoryId": "4",
+    "position": [1151.5, 1774.5],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n\n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003Cp\u003E\u003Cbr /\u003E\n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "65"
+  },
+  {
+    "categoryId": "4",
+    "position": [1844.134485334516, 2224.5579336128785],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n\n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003Cp\u003E\u003Cbr /\u003E\n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "66"
+  },
+  {
+    "categoryId": "4",
+    "position": [2077.479723126077, 2592.2534598298835],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. ",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "67"
+  },
+  {
+    "categoryId": "4",
+    "position": [2274, 3587],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n\n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003Cp\u003E\u003Cbr /\u003E\n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "68"
+  },
+  {
+    "categoryId": "4",
+    "position": [1589, 2995],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "69"
+  },
+  {
+    "categoryId": "4",
+    "position": [1448, 2796],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n\n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003Cp\u003E\u003Cbr /\u003E\n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "70"
+  },
+  {
+    "categoryId": "4",
+    "position": [1586.040510201426, 2825.5986976214435],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n\n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003Cp\u003E\u003Cbr /\u003E\n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "71"
+  },
+  {
+    "categoryId": "4",
+    "position": [1238.8510806388313, 3336.1297936381316],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n\n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003Cp\u003E\u003Cbr /\u003E\n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "72"
+  },
+  {
+    "categoryId": "4",
+    "position": [1035.2043276571058, 3654.327845172078],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. ",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "73"
+  },
+  {
+    "categoryId": "4",
+    "position": [1820, 4274],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. ",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "74"
+  },
+  {
+    "categoryId": "4",
+    "position": [2373, 4104],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n\n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003Cp\u003E\u003Cbr /\u003E\n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "75"
+  },
+  {
+    "categoryId": "4",
+    "position": [1885.146678643336, 5052.985058359069],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n\n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003Cp\u003E\u003Cbr /\u003E\n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "76"
+  },
+  {
+    "categoryId": "4",
+    "position": [2524, 4716],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n\n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003Cp\u003E\u003Cbr /\u003E\n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "77"
+  },
+  {
+    "categoryId": "4",
+    "position": [2927, 4433],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n\n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003Cp\u003E\u003Cbr /\u003E\n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "78"
+  },
+  {
+    "categoryId": "4",
+    "position": [4054, 5212],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "79"
+  },
+  {
+    "categoryId": "4",
+    "position": [3959.7979746446663, 4563.667165777978],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "80"
+  },
+  {
+    "categoryId": "4",
+    "position": [4052, 4118],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "81"
+  },
+  {
+    "categoryId": "4",
+    "position": [4511.341263970173, 3922.321315241779],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "82"
+  },
+  {
+    "categoryId": "4",
+    "position": [3651.4994180473313, 4023.437584951455],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "83"
+  },
+  {
+    "categoryId": "4",
+    "position": [3318, 3591],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n\n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003Cp\u003E\u003Cbr /\u003E\n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "84"
+  },
+  {
+    "categoryId": "4",
+    "position": [3540, 3670],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n\n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003Cp\u003E\u003Cbr /\u003E\n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "85"
+  },
+  {
+    "categoryId": "4",
+    "position": [3279, 3230],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "86"
+  },
+  {
+    "categoryId": "4",
+    "position": [3251.2769798957456, 3033.488091290289],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n\n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003Cp\u003E\u003Cbr /\u003E\n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "87"
+  },
+  {
+    "categoryId": "4",
+    "position": [2998, 2507],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n\n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003Cp\u003E\u003Cbr /\u003E\n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "88"
+  },
+  {
+    "categoryId": "4",
+    "position": [2796, 1733],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "89"
+  },
+  {
+    "categoryId": "4",
+    "position": [3556.5, 1656],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "90"
+  },
+  {
+    "categoryId": "4",
+    "position": [4166.980261532324, 1768.4740597475552],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n\n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003Cp\u003E\u003Cbr /\u003E\n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "91"
+  },
+  {
+    "categoryId": "4",
+    "position": [4445, 1757],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "92"
+  },
+  {
+    "categoryId": "4",
+    "position": [4340.221422923029, 1285.5201281971435],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n\n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003Cp\u003E\u003Cbr /\u003E\n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "93"
+  },
+  {
+    "categoryId": "4",
+    "position": [4149.302592002661, 1081.8733752154178],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n\n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003Cp\u003E\u003Cbr /\u003E\n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "94"
+  },
+  {
+    "categoryId": "4",
+    "position": [4413.76052816643, 749.5331880577404],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n\n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003Cp\u003E\u003Cbr /\u003E\n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "95"
+  },
+  {
+    "categoryId": "4",
+    "position": [4711.452483045966, 1304.6120112891801],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n\n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003Cp\u003E\u003Cbr /\u003E\n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "96"
+  },
+  {
+    "categoryId": "4",
+    "position": [4730, 1092.5],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n\n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003Cp\u003E\u003Cbr /\u003E\n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "97"
+  },
+  {
+    "categoryId": "4",
+    "position": [4818, 1122],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n\n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003Cp\u003E\u003Cbr /\u003E\n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "98"
+  },
+  {
+    "categoryId": "4",
+    "position": [4977.324632772108, 1181.5754313627208],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n\n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003Cp\u003E\u003Cbr /\u003E\n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "99"
+  },
+  {
+    "categoryId": "4",
+    "position": [5443, 1298],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n\n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003Cp\u003E\u003Cbr /\u003E\n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "100"
+  },
+  {
+    "categoryId": "4",
+    "position": [5680, 1191],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "101"
+  },
+  {
+    "categoryId": "4",
+    "position": [5677, 1752],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n\n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003Cp\u003E\u003Cbr /\u003E\n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "102"
+  },
+  {
+    "categoryId": "4",
+    "position": [6312, 1787],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "103"
+  },
+  {
+    "categoryId": "4",
+    "position": [6714.5, 1397.5],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "104"
+  },
+  {
+    "categoryId": "4",
+    "position": [7149, 1776],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. ",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "105"
+  },
+  {
+    "categoryId": "4",
+    "position": [6659, 2076.5],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "106"
+  },
+  {
+    "categoryId": "4",
+    "position": [6621.34789903083, 1952.3218228560577],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "107"
+  },
+  {
+    "categoryId": "4",
+    "position": [7158.749052732606, 2182.1315267416853],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "108"
+  },
+  {
+    "categoryId": "4",
+    "position": [7065.4109576159835, 2404.163056034262],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "109"
+  },
+  {
+    "categoryId": "4",
+    "position": [6554, 2488],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "110"
+  },
+  {
+    "categoryId": "4",
+    "position": [5255, 2171],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "111"
+  },
+  {
+    "categoryId": "4",
+    "position": [5241, 2864],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "112"
+  },
+  {
+    "categoryId": "4",
+    "position": [4886.1078579990435, 3015.103314979439],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "113"
+  },
+  {
+    "categoryId": "4",
+    "position": [4741.858074636988, 2993.8901115438425],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "114"
+  },
+  {
+    "categoryId": "4",
+    "position": [4538.918428436448, 3056.822615069445],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "115"
+  },
+  {
+    "categoryId": "4",
+    "position": [4502, 3295],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "116"
+  },
+  {
+    "categoryId": "4",
+    "position": [4720, 3433],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "117"
+  },
+  {
+    "categoryId": "4",
+    "position": [5011, 3498],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "118"
+  },
+  {
+    "categoryId": "4",
+    "position": [4705.088522015288, 2418.305191657993],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "119"
+  },
+  {
+    "categoryId": "4",
+    "position": [4371.334121295237, 2242.942709923729],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. ",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "120"
+  },
+  {
+    "categoryId": "4",
+    "position": [5154, 4506],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "121"
+  },
+  {
+    "categoryId": "4",
+    "position": [5204, 4267],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "122"
+  },
+  {
+    "categoryId": "4",
+    "position": [5044, 4100],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "123"
+  },
+  {
+    "categoryId": "4",
+    "position": [5626, 3821],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "124"
+  },
+  {
+    "categoryId": "4",
+    "position": [5812.417741353421, 3594.930875552408],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "125"
+  },
+  {
+    "categoryId": "4",
+    "position": [5744.535490359512, 3461.9948006893364],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. ",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "126"
+  },
+  {
+    "categoryId": "4",
+    "position": [5860.501002474106, 3459.1663735645902],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "127"
+  },
+  {
+    "categoryId": "4",
+    "position": [5572.001435749995, 3136.725681343525],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n\n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003Cp\u003E\u003Cbr /\u003E\n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "128"
+  },
+  {
+    "categoryId": "4",
+    "position": [6368, 2836],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "129"
+  },
+  {
+    "categoryId": "4",
+    "position": [6088, 2436],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "130"
+  },
+  {
+    "categoryId": "4",
+    "position": [7435.934910957733, 2469.216879903424],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "131"
+  },
+  {
+    "categoryId": "4",
+    "position": [6272, 3752],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n\n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003Cp\u003E\u003Cbr /\u003E\n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "132"
+  },
+  {
+    "categoryId": "4",
+    "position": [6622, 3237],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "133"
+  },
+  {
+    "categoryId": "4",
+    "position": [6437, 3077],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. ",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "134"
+  },
+  {
+    "categoryId": "4",
+    "position": [7470, 2844],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "135"
+  },
+  {
+    "categoryId": "4",
+    "position": [7582, 2977],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "136"
+  },
+  {
+    "categoryId": "4",
+    "position": [6834, 2853],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "137"
+  },
+  {
+    "categoryId": "4",
+    "position": [6891, 3191],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. Likely Vault 76.\n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. Likely Vault 76.\n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "138"
+  },
+  {
+    "categoryId": "4",
+    "position": [7093, 3206],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]].  Likely Vault 94.\n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E.  Likely Vault 94.\n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "139"
+  },
+  {
+    "categoryId": "4",
+    "position": [7106.423150924802, 3058.236828631818],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "140"
+  },
+  {
+    "categoryId": "4",
+    "position": [6958.637833656814, 3068.843430349616],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "141"
+  },
+  {
+    "categoryId": "4",
+    "position": [6999.6500269656335, 2855.2971824312785],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. Likely Vault 63.\n\n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. Likely Vault 63.\n\u003C/p\u003E\u003Cp\u003E\u003Cbr /\u003E\n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "142"
+  },
+  {
+    "categoryId": "4",
+    "position": [7119.858179767347, 2917.522579175695],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. Likely Vault 96.\n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. Likely Vault 96.\n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "143"
+  },
+  {
+    "categoryId": "4",
+    "position": [7049, 3492],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "144"
+  },
+  {
+    "categoryId": "4",
+    "position": [7418, 3525],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "145"
+  },
+  {
+    "categoryId": "4",
+    "position": [7462, 3263],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "146"
+  },
+  {
+    "categoryId": "4",
+    "position": [7466, 3148],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "147"
+  },
+  {
+    "categoryId": "4",
+    "position": [7532.454986589697, 3136.3721279529314],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "148"
+  },
+  {
+    "categoryId": "4",
+    "position": [7546.243568822834, 3246.3272324274394],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. Likely refers to the cluster of Vaults near DC.\n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. Likely refers to the cluster of Vaults near DC.\n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "149"
+  },
+  {
+    "categoryId": "4",
+    "position": [7877.16954241814, 3350.2719292618626],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "150"
+  },
+  {
+    "categoryId": "4",
+    "position": [7882.119289886445, 3626.0435739246154],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "151"
+  },
+  {
+    "categoryId": "4",
+    "position": [7905.453813665601, 3740.5948724768364],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "152"
+  },
+  {
+    "categoryId": "4",
+    "position": [7960, 3965],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "153"
+  },
+  {
+    "categoryId": "4",
+    "position": [7739.99082686795, 4012.123876452471],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "154"
+  },
+  {
+    "categoryId": "4",
+    "position": [8049, 4090],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "155"
+  },
+  {
+    "categoryId": "4",
+    "position": [8129, 3992],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "156"
+  },
+  {
+    "categoryId": "4",
+    "position": [8239, 3954],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "157"
+  },
+  {
+    "categoryId": "4",
+    "position": [8463.361064021787, 4056.671603667223],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "158"
+  },
+  {
+    "categoryId": "4",
+    "position": [8170.5, 4092.5],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "159"
+  },
+  {
+    "categoryId": "4",
+    "position": [8384.87221131008, 4526.897613156277],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "160"
+  },
+  {
+    "categoryId": "4",
+    "position": [7913, 4331],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "161"
+  },
+  {
+    "categoryId": "4",
+    "position": [2718, 3154],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n\n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003Cp\u003E\u003Cbr /\u003E\n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "162"
+  },
+  {
+    "categoryId": "4",
+    "position": [7628.975062221661, 3384.2130547588163],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n\n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003Cp\u003E\u003Cbr /\u003E\n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "163"
+  },
+  {
+    "categoryId": "4",
+    "position": [7739, 3510],
+    "popup": {
+      "title": "Estimated Vault Location",
+      "description": "As seen during the conference scene in [[The Beginning]]. \n",
+      "link": {
+        "url": "",
+        "label": ""
+      },
+      "image": {
+        "title": "File:FOTV ep8 Vault heat map ALTERED state overlay.png",
+        "url": "https://static.wikia.nocookie.net/fallout/images/b/bb/FOTV_ep8_Vault_heat_map_ALTERED_state_overlay.png/revision/latest/scale-to-width-down/300?cb=20240412145819",
+        "width": 5757,
+        "height": 2349
+      },
+      "descriptionHtml": "\u003Cdiv class=\"mw-parser-output\"\u003E\u003Cp\u003EAs seen during the conference scene in \u003Ca href=\"/wiki/The_Beginning\" title=\"The Beginning\"\u003EThe Beginning\u003C/a\u003E. \n\u003C/p\u003E\u003C/div\u003E"
+    },
+    "id": "164"
+  }
+]
