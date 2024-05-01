@@ -42,7 +42,7 @@ export default function Map() {
 
       {markers.map((marker, index) => (
         <Marker key={index} position={marker.geocode} icon={icon}>
-          <Popup>Hi there</Popup>
+          <Popup>{marker.popUp}</Popup>
         </Marker>
       ))}
     </MapContainer>
