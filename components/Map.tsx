@@ -1,10 +1,8 @@
 "use client";
 import "leaflet/dist/leaflet.css";
-import dynamic from "next/dynamic";
 
 import { Icon, LatLngExpression } from "leaflet";
 import { MapContainer, Marker, Popup, TileLayer } from "react-leaflet";
-import Image from "next/image";
 
 const markers: { geocode: LatLngExpression; popUp: string }[] = [
   {
