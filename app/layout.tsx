@@ -16,13 +16,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body
-        className={
-          inter.className + " root " + "h-screen border border-orange-600"
-        }
-      >
-        {children}
-      </body>
+      <body className={inter.className + " root "}>{children}</body>
     </html>
   );
 }
