@@ -1,34 +1,24 @@
 "use client";
-import "leaflet/dist/leaflet.css";
 import L from "leaflet";
 
 import { Icon, LatLngExpression } from "leaflet";
 import { MapContainer, Marker, Popup, TileLayer } from "react-leaflet";
 
-const markers: { geocode: LatLngExpression; popUp: string }[] = [
+const markers: {
+  geocode: LatLngExpression;
+  title: string;
+  from?: string;
+  body?: string;
+}[] = [
+  // ! Fallout TV Show
   {
-    geocode: [0, 0],
-    popUp: "top left",
-  },
-  {
-    geocode: [0, 1406],
-    popUp: "top right",
-  },
-  {
-    geocode: [-930, 0],
-    popUp: "bottom left",
-  },
-  {
-    geocode: [-930, 1406],
-    popUp: "bottom right",
-  },
-  {
-    geocode: [-(930 / 2), 1406 / 2],
-    popUp: "center",
+    geocode: [-544, 142.5], // * ESTIMATE LOCATION
+    title: "Vaults 31, 32, & 33",
+    from: "Fallout TV Series",
   },
 ];
 
-const icon = new Icon({
+const defaultIcon = new Icon({
   iconUrl: "/icons/generic_pin.png",
   iconSize: [24, 24],
   iconAnchor: [12, 24],
@@ -50,27 +40,28 @@ console.log({ customCRS });
 export default function Map() {
   return (
     <MapContainer
-      center={[-(930 / 2), 1406 / 2]}
-      zoom={3}
+      center={[-448, 228]}
+      zoom={4}
       minZoom={2}
       maxZoom={6}
       scrollWheelZoom={true}
       crs={customCRS}
     >
       <TileLayer
-        attribution="&copy; "
+        attribution="&copy; People"
         url="/tiles/{z}/{x}/{y}.jpg"
         noWrap={true}
       />
 
       {markers.map((marker, index) => (
-        <Marker
-          key={index}
-          position={marker.geocode}
-          riseOffset={9}
-          icon={icon}
-        >
-          <Popup>{marker.popUp}</Popup>
+        <Marker key={index} position={marker.geocode} icon={defaultIcon}>
+          <Popup offset={[0, -10]}>
+            <div className="flex gap-2 flex-col">
+              <b className="text-lg">{marker.title}</b>
+              {marker?.body && <p>{marker.body}</p>}
+              {marker?.from && <i className="text-xs">{marker.from}</i>}
+            </div>
+          </Popup>
         </Marker>
       ))}
     </MapContainer>
