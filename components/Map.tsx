@@ -39,7 +39,7 @@ console.log({ customCRS });
 export default function Map() {
   return (
     <MapContainer
-      center={[-448, 228]}
+      center={[-(930 / 2), 1406 / 2]}
       zoom={3}
       minZoom={2}
       maxZoom={6}
