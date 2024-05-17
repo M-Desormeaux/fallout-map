@@ -1,274 +1,164 @@
 [
+  // ! Fallout Locations
   {
-    "vault": "Vault 3",
-    "details": "Control Vault",
-    "experiment": "Inhabitants chose to remain in isolation for over a century until a water leak forced them to open for trade; Vault was subsequently massacred and taken over by the Fiends",
-    "appears_in": ["Fallout: New Vegas"],
-    "position": [1545.9122003690895, 2740.745883879058],
-    "type": "canon"
+    "geocode": [-517, 197],
+    "title": "Vault 12",
+    "from": "Fallout",
+    "body": "Door was intentionally designed not to seal correctly; As a result, inhabitants became ghouls and founded the city of Necropolis."
   },
   {
-    "vault": "Vault 4",
-    "details": "Publicly-known experiment; a Vault governed exclusively by scientists, with no other oversight",
-    "experiment": "Scientists adopted a policy of letting in survivors to use as genetic experimentation test subjects; subjects broke free and killed the scientists, but continue to inhabit the Vault and accept outsiders, acting as a true refuge from the wastes",
-    "appears_in": ["Fallout TV series"],
-    "position": [0, 0],
-    "type": "canon"
+    "geocode": [-438, 177],
+    "title": "Vault 13",
+    "from": "Fallout",
+    "body": "Inhabitants chose to remain in isolation until a water chip failure forced them to send the Vault Dweller for a replacement. Later schisms led to downfall of the vault."
   },
   {
-    "vault": "Vault 8",
-    "details": "Control Vault",
-    "experiment": "Inhabitants left on-schedule and used their G.E.C.K. to establish Vault City",
-    "appears_in": ["Fallout 2"],
-    "position": [1216.2236636408616, 3843.832462530072],
-    "type": "canon"
+    "geocode": [-448, 228],
+    "title": "Vault 15",
+    "from": "Fallout",
+    "body": "As a social experiment, a diverse ethnic group was selected for observation. Due to schisms the inhabitants would form rival gangs or later found Shady Sands."
   },
   {
-    "vault": "Vault 11",
-    "details": "Social experiment studying a population's willingness to sacrifice individuals for the safety of the majority, using falsified threats of collective punishment",
-    "experiment": "Inhabitants initially used elections to select sacrifices; attempted coup after the practice was abolished resulted in the deaths of most inhabitants",
-    "appears_in": ["Fallout: New Vegas"],
-    "position": [1599, 2698],
-    "type": "canon"
+    "geocode": [-553.4, 145],
+    "title": "Demo Vault",
+    "from": "Fallout",
+    "body": "Originally a demonstration vault, that was successfully used by locals as a shelter and used as a Headquarters."
+  },
+
+  // ! Fallout 2 Locations
+  {
+    "geocode": [-329, 190],
+    "title": "Vault 8",
+    "from": "Fallout 2",
+    "body": "Inhabitants worked as advertised lead to the founding of Vault City"
+  },
+
+  // ! Fallout TV Show
+  {
+    "geocode": [-544, 142.5], // * ESTIMATE LOCATION
+    "title": "Vaults 31, 32, & 33",
+    "from": "Fallout TV Series"
+  },
+
+  // ! Fallout New Vegas Locations
+  {
+    "geocode": [-501.5, 241.5],
+    "title": "Vault 3",
+    "from": "Fallout: New Vegas",
+    "body": "Inhabitants stayed in isolation until a water leak forced the need for trade. Subsequently taken over by Fiends."
   },
   {
-    "vault": "Vault 12",
-    "details": "Medical experiment studying the effects of gradual radiation exposure; door was designed not to seal correctly",
-    "experiment": "Inhabitants became ghouls and founded the city of Necropolis",
-    "appears_in": ["Fallout"],
-    "position": [1267.1353518862932, 2642.104487903535],
-    "type": "canon"
+    "geocode": [-508, 250],
+    "title": "Vault 11",
+    "from": "Fallout: New Vegas",
+    "body": "Inhabitants heavily persuaded to sacrifice regularly for group safety. Coups much later on lead to discovery that the threat of harm was a ruse."
   },
   {
-    "vault": "Vault 13",
-    "details": "Control Vault",
-    "experiment": "Inhabitants chose to remain in isolation until a water chip failure forced them to send the Vault Dweller for a replacement. Schism caused by the Vault Dweller resulted in many inhabitants leaving; survivors were killed or kidnapped by the Enclave",
-    "appears_in": ["Fallout", "Fallout 2"],
-    "position": [1135.6134905855952, 3143.4431957647967],
-    "type": "canon"
+    "geocode": [-504, 239],
+    "title": "Vault 19",
+    "from": "Fallout: New Vegas",
+    "body": "Inhabitants split into two groups and manipulated into believing the other group was an enemy. Fates unknown, but vault is later under control of Powder Gangers."
   },
   {
-    "vault": "Vault 15",
-    "details": "Social experiment in which a large population from diverse ethnic and religious backgrounds were forced to live together; Vault's opening was intentionally delayed by several decades",
-    "experiment": "Schism among the inhabitants led to the formation of three raider gangs from exiled inhabitants (Khans, Jackals, and Vipers). Remaining inhabitants formed Shady Sands",
-    "appears_in": ["Fallout", "Fallout 2"],
-    "position": [1462.2968234937803, 3075.207391380295],
-    "type": "canon"
+    "geocode": [-499, 245.5],
+    "title": "Vault 21",
+    "from": "Fallout: New Vegas",
+    "body": "Vault themed around gambling and the long term effects of gambling based resolution. System worked well until Robert House won the vault in a game of blackjack and turned it into a hotel."
   },
   {
-    "vault": "Vault 17",
-    "details": "Unknown",
-    "experiment": "Inhabitants were kidnapped and transformed into super mutants by the Unity",
-    "appears_in": ["Fallout: New Vegas"],
-    "position": [0, 0],
-    "type": "canon"
+    "geocode": [-494, 241.5],
+    "title": "Vault 22",
+    "from": "Fallout: New Vegas",
+    "body": "Originally intended to study genetically modified flora and crops; Due to gene mutation, inhabitants became infected with fungal spores and became spore carriers."
   },
   {
-    "vault": "Vault 19",
-    "details": "Social experiment studying effects of factionalism and means to induce paranoia and mistrust; inhabitants divided into rival 'Blue' and 'Red' sectors",
-    "experiment": "Inhabitants subjected to subliminal messaging and faked acts of sabotage; many developed symptoms of psychosis. Ultimate fate of inhabitants is unknown; Vault was eventually occupied by Powder Gangers",
-    "appears_in": ["Fallout: New Vegas"],
-    "position": [1532, 2727.5],
-    "type": "canon"
+    "geocode": [-501, 250],
+    "title": "Vault 34",
+    "from": "Fallout: New Vegas",
+    "body": "Supplied with an overstocked armory and weak protections. Inhabitants manually enforced restrictions for safety, leading to a schism that ultimately causes the reactor to leak causing death and ghoulification."
+  },
+
+  // ! Fallout 3 Locations
+  {
+    "geocode": [-421, 1168.4],
+    "title": "Vault 87",
+    "from": "Fallout 3",
+    "body": "Forced evolutionary experimentation, leading to inhabitants all turned into super mutants and later taken over by said inhabitants."
   },
   {
-    "vault": "Vault 21",
-    "details": "Social experiment studying the effects of excessive gambling; all disputes were to be resolved through games of chance",
-    "experiment": "Inhabitants maintained a stable community until 2274, when Robert House successfully won ownership of the Vault in a game of blackjack and converted it into a hotel",
-    "appears_in": ["Fallout: New Vegas"],
-    "position": [1570.5, 2755],
-    "type": "canon"
+    "geocode": [-414.5, 1179],
+    "title": "Vault 92",
+    "from": "Fallout 3",
+    "body": "Experiment with the use of white noise to document effects. Inhabitants were driven to a state of madness and eventually everyone died."
   },
   {
-    "vault": "Vault 22",
-    "details": "Research facility studying and creating genetically modified crops and flora",
-    "experiment": "Genetically modified fungal infection transformed inhabitants into spore carriers",
-    "appears_in": ["Fallout: New Vegas"],
-    "position": [1544.6747635020129, 2789.1826983903366],
-    "type": "canon"
+    "geocode": [-422.6, 1175],
+    "title": "Vault 101",
+    "from": "Fallout 3",
+    "body": "Vault in which Overseer had complete authority and no intentions of opening. Vault eventually fell to civil war after an outsider was welcomed in and then escaped."
   },
   {
-    "vault": "Vault 29",
-    "details": "Social experiment",
-    "experiment": "Said to be full of 'rich, obnoxious teenagers'",
-    "appears_in": ["Fallout 76"],
-    "position": [3057, 2557],
-    "type": "canon"
+    "geocode": [-420.4, 1172.9],
+    "title": "Vault 106",
+    "from": "Fallout 3",
+    "body": "Air supply heavily drugged to test effects. Inhabitant fate unknown but drug supply remains in air for following centuries."
   },
   {
-    "vault": "Vault 31, 32, 33",
-    "details": "Social experiment, consisting of three interconnected but divided Vaults, ostensibly as extra security from threats but also for support during crises",
-    "experiment": "Remains functional as of 2297, with many Vault-Tec employees still cryogenically preserved, watched over by Bud Askins",
-    "appears_in": ["Fallout TV series"],
-    "position": [911.6666564941406, 2467],
-    "type": "canon"
+    "geocode": [-419.2, 1181.3],
+    "title": "Vault 108",
+    "from": "Fallout 3",
+    "body": "Vault outfitted with cloning machine. Fates unknown but vault is occupied by multiple men bearing the name 'Gary'."
   },
   {
-    "vault": "Vault 34",
-    "details": "Social experiment in which inhabitants were provided access to an overstocked armory with no security measures",
-    "experiment": "Inhabitants manually installed locks on armory and restricted access to Vault Security; schism over these measures led a group to leave and form the Boomers tribe. Reactor leak caused by a civil uprising led to the death or ghoulification of most inhabitants",
-    "appears_in": ["Fallout: New Vegas"],
-    "position": [1605.5, 2745],
-    "type": "canon"
+    "geocode": [-423.7, 1170],
+    "title": "Vault 112",
+    "from": "Fallout 3",
+    "body": "Vault inhabitants trapped in virtual reality by Overseer, to be tortured for his amusement."
+  },
+
+  // ! Fallout 4 Locations
+  {
+    "geocode": [-280, 1294],
+    "title": "Vault 75",
+    "from": "Fallout 4",
+    "body": "Experiment to breed young inhabitants into perfect soldiers. Test subjects revolted and area is now occupied by Gunners."
   },
   {
-    "vault": "Vault 51",
-    "details": "Social experiment in which a ZAX AI was tasked with selecting an ideal overseer from Vault population",
-    "experiment": "ZAX began manufacturing crises to test the abilities of inhabitants; the crises eventually escalated to lethal threats, then direct manipulation encouraging the remaining inhabitants to kill one another",
-    "appears_in": ["Fallout 76"],
-    "position": [6978.7903769206305, 3324.462531748553],
-    "type": "canon"
+    "geocode": [-285, 1286.2],
+    "title": "Vault 81",
+    "from": "Fallout 4",
+    "body": "Vault experiment thwarted by Overseer due to moral and ethical concerns. Inhabitants unaware of the original purpose."
   },
   {
-    "vault": "Vault 63",
-    "details": "Unknown",
-    "experiment": "Vault remains inaccessible",
-    "appears_in": ["Fallout 76"],
-    "position": [6999.6500269656335, 2855.2971824312785],
-    "type": "canon"
+    "geocode": [-289, 1292],
+    "title": "Vault 88",
+    "from": "Fallout 4: Vault-Tec Workshop",
+    "body": "Incomplete Vault, rebuilt by main character."
   },
   {
-    "vault": "Vault 75",
-    "details": "Social and medical experiment, in which a eugenics program was used to breed young inhabitants into perfect soldiers",
-    "experiment": "Test subjects eventually revolted against researchers; Vault was eventually occupied by Gunners",
-    "appears_in": ["Fallout 4"],
-    "position": [8281, 4152],
-    "type": "canon"
+    "geocode": [-289.3, 1286.6],
+    "title": "Vault 95",
+    "from": "Fallout 4",
+    "body": "Experimental rehab vault, residents were given experimental tratments before being made aware of a vast stash of drugs."
   },
   {
-    "vault": "Vault 76",
-    "details": "Control Vault",
-    "experiment": "Inhabitants became instrumental in the reconstruction of Appalachia and the eradication of the Scorched Plague",
-    "appears_in": ["Fallout 76"],
-    "position": [6891, 3191],
-    "type": "canon"
+    "geocode": [-280.8, 1283],
+    "title": "Vault 111",
+    "from": "Fallout 4",
+    "body": "Cryogenic based vault where inhabitants are all subjected to cryogenics. Abandoned by staff with only one inhabitant surviving."
   },
   {
-    "vault": "Vault 77",
-    "details": "Social experiment in which a single man was locked in the vault with only puppets",
-    "experiment": "An unknown inhabitant was feared to the point of superstition by the slavers of Paradise Falls",
-    "appears_in": ["Fallout 3"],
-    "position": [0, 0],
-    "type": "canon"
+    "geocode": [-284, 1291],
+    "title": "Vault 114",
+    "from": "Fallout 4",
+    "body": "Incomplete vault originally intended to subject wealthy to sub-standard living conditions, location taken over by local gangster."
   },
+
+  // ! Far Harbor
   {
-    "vault": "Vault 79",
-    "details": "Secret Service facility intended to house the United States gold reserves",
-    "experiment": "Reactor leak killed or ghoulified most agents assigned to the Vault; survivors were rescued by the residents of Vault 76 during an attempted heist of the gold reserves",
-    "appears_in": ["Fallout 76"],
-    "position": [0, 0],
-    "type": "canon"
-  },
-  {
-    "vault": "Vault 81",
-    "details": "Research facility; scientists in a secret sector of the Vault would work to develop a universal disease cure via experiments on an unwitting civilian population",
-    "experiment": "Operations sabotaged by Overseer due to moral objections; researchers were sealed within their section of the Vault with no means of escape or contact. Researchers continued work by experimenting on mole rats and eventually perished; civilian section of the Vault maintained a stable community and remains inhabited",
-    "appears_in": ["Fallout 4"],
-    "position": [8231.4300397926, 4127.028728395284],
-    "type": "canon"
-  },
-  {
-    "vault": "Vault 87",
-    "details": "Research facility studying the effects of the Forced Evolutionary Virus on humans; civilian population was used as test subjects",
-    "experiment": "Inhabitants were transformed into super mutants and seized control of the Vault",
-    "appears_in": ["Fallout 3"],
-    "position": [7479.775531391299, 3254.4589604110847],
-    "type": "canon"
-  },
-  {
-    "vault": "Vault 88",
-    "details": "Testing facility for experimental productivity-boosting equipment to be used in other Vaults",
-    "experiment": "Vault's construction was never completed. Overseer Valery Barstow became a ghoul and eventually recruited the Sole Survivor to help complete the Vault's experiments",
-    "appears_in": ["Fallout 4: Vault-Tec Workshop"],
-    "position": [8267, 4099],
-    "type": "canon"
-  },
-  {
-    "vault": "Vault 92",
-    "details": "Medical experiment testing means to induce aggression using white noise",
-    "experiment": "Inhabitants were driven insane and eventually killed one another. Vault later became infested with bloatflies and mirelurks",
-    "appears_in": ["Fallout 3"],
-    "position": [7546.950675604021, 3297.9460274540575],
-    "type": "canon"
-  },
-  {
-    "vault": "Vault 94",
-    "details": "Social experiment testing the viability of pacifist belief systems in post-apocalyptic conditions; all inhabitants were members of a nonviolent religious community save a single Vault-Tec employee",
-    "experiment": "Vault-Tec observer confessed to the experiment and urged inhabitants to arm themselves for safety purposes. This advice was ignored, and the Vault was eventually massacred by paranoid outsiders. Damage to the Vault's G.E.C.K. sustained in the massacre created the Mire",
-    "appears_in": ["Fallout 76"],
-    "position": [7210.367847759225, 3239.9632713967603],
-    "type": "canon"
-  },
-  {
-    "vault": "Vault 95",
-    "details": "Social and medical experiment in which addicts were given experimental rehabilitation treatments and encouraged to remain clean, then informed of a secret stash of chems",
-    "experiment": "Inhabitants initially recovered from addictions, but rapidly descended into violence once informed of the secret stash. Vault was eventually occupied by the Gunners",
-    "appears_in": ["Fallout 4"],
-    "position": [8234.5, 4097],
-    "type": "canon"
-  },
-  {
-    "vault": "Vault 96",
-    "details": "Research facility intended to monitor and study mutated wildlife, using genetic engineering to develop anti-mutant countermeasures. Staffed by only five individuals",
-    "experiment": "Automated security measures threatened to execute inhabitants if they failed to meet quotas due to secretive and unethical nature of research. Inhabitants eventually attempted to sabotage security systems and escape, but failed and were killed. Test subjects eventually began to escape the facility",
-    "appears_in": ["Fallout 76"],
-    "position": [7119.858179767347, 2917.522579175695],
-    "type": "canon"
-  },
-  {
-    "vault": "Vault 101",
-    "details": "Social experiment in which Overseers were granted unlimited authority over a Vault intended to remain closed indefinitely",
-    "experiment": "Overseer Alphonse Almodovar eventually began to send secret scouting parties into surrounding wasteland and recruited an outsider, James, as doctor. Vault eventually fell into civil war after James and the Lone Wanderer escaped",
-    "appears_in": ["Fallout 3"],
-    "position": [7521.141278090712, 3247.034339208626],
-    "type": "canon"
-  },
-  {
-    "vault": "Vault 106",
-    "details": "Medical experiment studying effects of psychoactive drugs released via air filtration systems",
-    "experiment": "Population erupted in violence after drugs were released; ultimate fate of inhabitants is unknown. Drugs remained in air supply for 200 years, causing insanity and hallucinations in survivors who entered",
-    "appears_in": ["Fallout Bible", " Fallout 3"],
-    "position": [7508.0598026387615, 3258.348047707611],
-    "type": "canon"
-  },
-  {
-    "vault": "Vault 108",
-    "details": "Social experiment studying effects of leadership conflicts: most management positions were to be filled by a terminally ill Overseer upon entry, power systems were designed to fail after 20 years, no entertainment was provided, and armory was provided triple the standard ordnance",
-    "experiment": "In addition to stated purpose, Vault was also provided with a cloning device. A single inhabitant, Gary, was cloned repeatedly; clones eventually turned violent and overran the Vault",
-    "appears_in": ["Fallout 3"],
-    "position": [7562.153471399532, 3263.65134856651],
-    "type": "canon"
-  },
-  {
-    "vault": "Vault 111",
-    "details": "Medical experiment studying long-term effects of cryogenic stasis on unwitting subjects",
-    "experiment": "All-clear signal was never received, resulting in a coup by Vault Security and the abandonment of the Vault. One test subject, an infant named Shaun, was extracted from stasis and kidnapped by Institute agents; remaining subjects died due to power failure save for a Sole Survivor",
-    "appears_in": ["Fallout 4"],
-    "position": [8212.691710091156, 4153.191679299187],
-    "type": "canon"
-  },
-  {
-    "vault": "Vault 112",
-    "details": "Social experiment in which inhabitants were placed in a virtual reality simulation controlled by the Overseer",
-    "experiment": "Experiment was designed by Overseer Stanislaus Braun for his own psychotic amusement; after entry Braun tortured the inhabitants for centuries",
-    "appears_in": ["Fallout 3"],
-    "position": [7488.614366156131, 3238.195504443794],
-    "type": "canon"
-  },
-  {
-    "vault": "Vault 114",
-    "details": "Social experiment in which wealthy inhabitants would be stripped of luxury and forced to live in cramped squalor under an incompetent Overseer",
-    "experiment": "Vault was never completed, possibly due to contract fraud and/or embezzlement. Construction site was eventually taken over by Skinny Malone's triggermen outfit",
-    "appears_in": ["Fallout 4"],
-    "position": [8262.542738164808, 4130.917815691811],
-    "type": "canon"
-  },
-  {
-    "vault": "Vault 118",
-    "details": "Social experiment in which 10 wealthy residents would live in luxury while 300 impoverished residents lived in squalor, with wealthy residents granted total authority",
-    "experiment": "\"Lower class\" section of the Vault was never completed due to embezzlement of construction funds. Inhabitants of the \"luxury\" section eventually transferred themselves into robobrains to achieve immortality, and continue to occupy the Vault",
-    "appears_in": ["Fallout 4: Far Harbor"],
-    "position": [8561, 4660.5],
-    "type": "canon"
+    "geocode": [-202, 1338],
+    "title": "Vault 118",
+    "from": "Fallout 4: Far Habor",
+    "body": "Vault second wing for poor residents never completed due to embezzlement, all luxury residents transfered conciousness to robobrains to achienve immortality."
   }
 ]

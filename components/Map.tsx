@@ -126,6 +126,52 @@ const markers: {
     from: "Fallout 3",
     body: "Vault inhabitants trapped in virtual reality by Overseer, to be tortured for his amusement.",
   },
+
+  // ! Fallout 4 Locations
+  {
+    geocode: [-280, 1294],
+    title: "Vault 75",
+    from: "Fallout 4",
+    body: "Experiment to breed young inhabitants into perfect soldiers. Test subjects revolted and area is now occupied by Gunners.",
+  },
+  {
+    geocode: [-285, 1286.2],
+    title: "Vault 81",
+    from: "Fallout 4",
+    body: "Vault experiment thwarted by Overseer due to moral and ethical concerns. Inhabitants unaware of the original purpose.",
+  },
+  {
+    geocode: [-289, 1292],
+    title: "Vault 88",
+    from: "Fallout 4: Vault-Tec Workshop",
+    body: "Incomplete Vault, rebuilt by main character.",
+  },
+  {
+    geocode: [-289.3, 1286.6],
+    title: "Vault 95",
+    from: "Fallout 4",
+    body: "Experimental rehab vault, residents were given experimental tratments before being made aware of a vast stash of drugs.",
+  },
+  {
+    geocode: [-280.8, 1283],
+    title: "Vault 111",
+    from: "Fallout 4",
+    body: "Cryogenic based vault where inhabitants are all subjected to cryogenics. Abandoned by staff with only one inhabitant surviving.",
+  },
+  {
+    geocode: [-284, 1291],
+    title: "Vault 114",
+    from: "Fallout 4",
+    body: "Incomplete vault originally intended to subject wealthy to sub-standard living conditions, location taken over by local gangster.",
+  },
+
+  // ! Far Harbor
+  {
+    geocode: [-202, 1338],
+    title: "Vault 118",
+    from: "Fallout 4: Far Habor",
+    body: "Vault second wing for poor residents never completed due to embezzlement, all luxury residents transfered conciousness to robobrains to achienve immortality.",
+  },
 ];
 
 const defaultIcon = new Icon({
