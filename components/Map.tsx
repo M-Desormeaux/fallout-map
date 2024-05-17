@@ -50,6 +50,44 @@ const markers: {
     title: "Vaults 31, 32, & 33",
     from: "Fallout TV Series",
   },
+
+  // ! Fallout New Vegas Locations
+  {
+    geocode: [-501.5, 241.5],
+    title: "Vault 3",
+    from: "Fallout: New Vegas",
+    body: "Inhabitants stayed in isolation until a water leak forced the need for trade. Subsequently taken over by Fiends.",
+  },
+  {
+    geocode: [-508, 250],
+    title: "Vault 11",
+    from: "Fallout: New Vegas",
+    body: "Inhabitants heavily persuaded to sacrifice regularly for group safety. Coups much later on lead to discovery that the threat of harm was a ruse.",
+  },
+  {
+    geocode: [-504, 239],
+    title: "Vault 19",
+    from: "Fallout: New Vegas",
+    body: "Inhabitants split into two groups and manipulated into believing the other group was an enemy. Fates unknown, but vault is later under control of Powder Gangers.",
+  },
+  {
+    geocode: [-499, 245.5],
+    title: "Vault 21",
+    from: "Fallout: New Vegas",
+    body: "Vault themed around gambling and the long term effects of gambling based resolution. System worked well until Robert House won the vault in a game of blackjack and turned it into a hotel.",
+  },
+  {
+    geocode: [-494, 241.5],
+    title: "Vault 22",
+    from: "Fallout: New Vegas",
+    body: "Originally intended to study genetically modified flora and crops; Due to gene mutation, inhabitants became infected with fungal spores and became spore carriers.",
+  },
+  {
+    geocode: [-501, 250],
+    title: "Vault 34",
+    from: "Fallout: New Vegas",
+    body: "Supplied with an overstocked armory and weak protections. Inhabitants manually enforced restrictions for safety, leading to a schism that ultimately causes the reactor to leak causing death and ghoulification.",
+  },
 ];
 
 const defaultIcon = new Icon({
