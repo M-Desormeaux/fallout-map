@@ -56,6 +56,7 @@ const defaultIcon = new Icon({
   iconUrl: "/icons/generic_pin.png",
   iconSize: [24, 24],
   iconAnchor: [12, 24],
+  className: "drop-shadow-white",
 });
 
 const customCRS = L.CRS.Simple;
