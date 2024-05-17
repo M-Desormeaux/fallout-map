@@ -88,6 +88,44 @@ const markers: {
     from: "Fallout: New Vegas",
     body: "Supplied with an overstocked armory and weak protections. Inhabitants manually enforced restrictions for safety, leading to a schism that ultimately causes the reactor to leak causing death and ghoulification.",
   },
+
+  // ! Fallout 3 Locations
+  {
+    geocode: [-421, 1168.4],
+    title: "Vault 87",
+    from: "Fallout 3",
+    body: "Forced evolutionary experimentation, leading to inhabitants all turned into super mutants and later taken over by said inhabitants.",
+  },
+  {
+    geocode: [-414.5, 1179],
+    title: "Vault 92",
+    from: "Fallout 3",
+    body: "Experiment with the use of white noise to document effects. Inhabitants were driven to a state of madness and eventually everyone died.",
+  },
+  {
+    geocode: [-422.6, 1175],
+    title: "Vault 101",
+    from: "Fallout 3",
+    body: "Vault in which Overseer had complete authority and no intentions of opening. Vault eventually fell to civil war after an outsider was welcomed in and then escaped.",
+  },
+  {
+    geocode: [-420.4, 1172.9],
+    title: "Vault 106",
+    from: "Fallout 3",
+    body: "Air supply heavily drugged to test effects. Inhabitant fate unknown but drug supply remains in air for following centuries.",
+  },
+  {
+    geocode: [-419.2, 1181.3],
+    title: "Vault 108",
+    from: "Fallout 3",
+    body: "Vault outfitted with cloning machine. Fates unknown but vault is occupied by multiple men bearing the name 'Gary'.",
+  },
+  {
+    geocode: [-423.7, 1170],
+    title: "Vault 112",
+    from: "Fallout 3",
+    body: "Vault inhabitants trapped in virtual reality by Overseer, to be tortured for his amusement.",
+  },
 ];
 
 const defaultIcon = new Icon({
