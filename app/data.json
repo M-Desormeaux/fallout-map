@@ -1,5 +1,4 @@
 [
-  // ! Fallout Locations
   {
     "geocode": [-517, 197],
     "title": "Vault 12",
@@ -25,7 +24,6 @@
     "body": "Originally a demonstration vault, that was successfully used by locals as a shelter and used as a Headquarters."
   },
 
-  // ! Fallout 2 Locations
   {
     "geocode": [-329, 190],
     "title": "Vault 8",
@@ -33,14 +31,13 @@
     "body": "Inhabitants worked as advertised lead to the founding of Vault City"
   },
 
-  // ! Fallout TV Show
   {
-    "geocode": [-544, 142.5], // * ESTIMATE LOCATION
+    "geocode": [-544, 142.5],
     "title": "Vaults 31, 32, & 33",
-    "from": "Fallout TV Series"
+    "from": "Fallout TV Series",
+    "body": "Bud's Buds vault, focused around creating a large group of well trained inhabitants that would be loyal to Vault-tec."
   },
 
-  // ! Fallout New Vegas Locations
   {
     "geocode": [-501.5, 241.5],
     "title": "Vault 3",
@@ -78,7 +75,6 @@
     "body": "Supplied with an overstocked armory and weak protections. Inhabitants manually enforced restrictions for safety, leading to a schism that ultimately causes the reactor to leak causing death and ghoulification."
   },
 
-  // ! Fallout 3 Locations
   {
     "geocode": [-421, 1168.4],
     "title": "Vault 87",
@@ -116,7 +112,6 @@
     "body": "Vault inhabitants trapped in virtual reality by Overseer, to be tortured for his amusement."
   },
 
-  // ! Fallout 4 Locations
   {
     "geocode": [-280, 1294],
     "title": "Vault 75",
@@ -128,12 +123,6 @@
     "title": "Vault 81",
     "from": "Fallout 4",
     "body": "Vault experiment thwarted by Overseer due to moral and ethical concerns. Inhabitants unaware of the original purpose."
-  },
-  {
-    "geocode": [-289, 1292],
-    "title": "Vault 88",
-    "from": "Fallout 4: Vault-Tec Workshop",
-    "body": "Incomplete Vault, rebuilt by main character."
   },
   {
     "geocode": [-289.3, 1286.6],
@@ -153,12 +142,47 @@
     "from": "Fallout 4",
     "body": "Incomplete vault originally intended to subject wealthy to sub-standard living conditions, location taken over by local gangster."
   },
-
-  // ! Far Harbor
+  {
+    "geocode": [-289, 1292],
+    "title": "Vault 88",
+    "from": "Fallout 4: Vault-Tec Workshop",
+    "body": "Incomplete Vault, rebuilt by main character."
+  },
   {
     "geocode": [-202, 1338],
     "title": "Vault 118",
     "from": "Fallout 4: Far Habor",
     "body": "Vault second wing for poor residents never completed due to embezzlement, all luxury residents transfered conciousness to robobrains to achienve immortality."
+  },
+
+  {
+    "geocode": [-410, 1090],
+    "title": "Vault 51",
+    "from": "Fallout 76",
+    "body": "Outfitted with an AI to select the best Overseer, the AI subjected the inhabitants to experiments to determine best candidates."
+  },
+  {
+    "geocode": [-492.5, 1087],
+    "title": "Vault 63",
+    "from": "Fallout 76",
+    "body": "Vault remains sealed."
+  },
+  {
+    "geocode": [-436, 1082],
+    "title": "Vault 76",
+    "from": "Fallout 76",
+    "body": "Control vault where inhabitants were prepped to reclaim the war scorched wasteland."
+  },
+  {
+    "geocode": [-423, 1126.7],
+    "title": "Vault 94",
+    "from": "Fallout 76",
+    "body": "Vault filled with non-violent residents save one vault-tec employee. Even after the truth was revealed members did not arm themselves. Vault was massacred by paranoid outsiders."
+  },
+  {
+    "geocode": [-474, 1101],
+    "title": "Vault 96",
+    "from": "Fallout 76",
+    "body": "Research vault with 5 staff, upon attempting a revolt the inhabitants were killed. Experiments proceed to escape slowly into the wasteland."
   }
 ]
